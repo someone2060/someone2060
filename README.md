@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @someone2060
 - 👀 I’m interested in all things related to tech, and games too
-- 🌱 I’m currently learning Java and a bit of more advanced Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, C++, and advanced Java
 - 📫 How to reach me: send me an email at liangdaniel48@gmail.com
 
 <!---
