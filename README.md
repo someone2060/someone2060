@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @someone2060
-- 👀 I’m interested in all things related to tech, and games too
-- 🌱 I’m currently learning C#, C++, and advanced Java
-- 📫 How to reach me: send me an email at liangdaniel48@gmail.com
+# Hi! Welcome to my page! 👋
+I'm a high school student in Alberta interested in all things computer science.  
+Currently the code lead of Scarlett Robotics, I'm committed to improving soft and technical skills of Scarlett Robotics' team.  
+I'm learning C#, C++, and Java. I have intermediate experience in Python, HTML, CSS, and Processing.
+### Want to get in contact? Email me at liangdaniel48@gmail.com.
 
 <!---
 someone2060/someone2060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
