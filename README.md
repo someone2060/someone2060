@@ -1,7 +1,7 @@
 # Hi! Welcome to my page! 👋
 I'm a high school student in Alberta interested in all things computer science.  
 Currently the code lead of Scarlett Robotics, I'm committed to improving soft and technical skills of Scarlett Robotics' team.  
-I'm learning C#, C++, and Java. I have intermediate experience in Python, HTML, CSS, and Processing.
+I'm learning C# and C++. I have intermediate experience in Python, Java, HTML, CSS, and Processing.
 ### Want to get in contact? Email me at liangdaniel48@gmail.com.
 
 <!---
