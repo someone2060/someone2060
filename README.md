@@ -1,7 +1,7 @@
 # Hi! Welcome to my page! 👋
 I'm a high school student in Alberta interested in all things computer science.  
-Currently the code head and co-president of Scarlett Robotics, I'm committed to improving soft and technical skills of Scarlett Robotics' team.  
-I'm learning C++ and Tailwind. I have intermediate experience in Python, Java, C++, HTML, CSS, and Processing.
+Currently the code head and co-president of Scarlett Robotics, I'm committed to improving the soft and technical skills of Scarlett Robotics' team.  
+I'm learning C++ and HTML/CSS. I have intermediate experience in Python, Java, C++, and Processing, and beginner experience in HTML/CSS.
 ### Want to get in contact? Email me at liangdaniel48@gmail.com.
 
 <!---
