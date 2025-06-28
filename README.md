@@ -8,6 +8,11 @@ Although I am currently enrolled in university, I'm open to internships both in 
 
 ### Want to get in contact? Email me at liangdaniel48@gmail.com.
 
+Current projects:
+
+* UBC Thunderbots contributions
+* Sovereign Chess personal project
+
 <!---
 someone2060/someone2060 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
