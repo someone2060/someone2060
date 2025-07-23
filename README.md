@@ -1,6 +1,6 @@
 # Hi! Welcome to my page! 👋
 
-I'm a student at the University of British Columbia interested in all things computer science. I love learning what makes software work, and work well. I'm learning C++. I have intermediate experience in Python, Java, C++, and Unity. I have beginner experience in HTML/CSS and JavaScript. With UBC Thunderbots, I hope to soar in progamming ability.
+I'm a student at the University of British Columbia interested in all things computer science. I love learning what makes software work, and work well. I have intermediate experience in Python, Java, C++, and Unity. I have beginner experience in HTML/CSS and JavaScript. With UBC Thunderbots, I hope to soar in progamming ability.
 
 In high school, I took multiple executive positions in school activities. With Scarlett Robotics, I led a team of approximately 40 members and 5 programmers to place first in provincial qualifications and second in playoffs. Through my experience as a leader, I have learned and applied interpersonal, management, and leadership skills. I plan to further my skills in university, working to maximize the potential of every individual.
 
